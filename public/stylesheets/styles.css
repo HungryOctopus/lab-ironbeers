@@ -5,3 +5,31 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #bfbfbf;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: #0a2c42;
+  padding: 20px;
+}
+
+img {
+  padding-left: 20px;
+  padding-bottom: 50px;
+}
+
+nav {
+  background-color: #0a2c42;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+nav a {
+  color: #f7f9f9;
+  text-decoration: none;
+}
